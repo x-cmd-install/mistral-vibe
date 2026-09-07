@@ -5,15 +5,15 @@ about:
   head: 6c79ef0
   archived: false
   latestVersion: "v2.25.0"
-  collectedAt: 2026-09-07T05:27:54Z
+  collectedAt: 2026-09-07T19:02:29Z
 timeline:
   created: 2025-12-08
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 4923
+  star: 4926
   watcher: 30
-  fork: 688
+  fork: 689
   release: 84
   contributor: 101
   pullRequest: 417
@@ -81,7 +81,7 @@ total:
   commit: 85
 ---
 path: /home/runner/.x-repo/github.com/mistralai/mistral-vibe
-collectedAt: 2026-09-07T05:27:57Z
+collectedAt: 2026-09-07T19:02:31Z
 loc:
   Python:
     code: 263735
@@ -132,7 +132,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:27:58+00:00
+  collectedAt: 2026-09-07T19:02:32+00:00
   platform:
     darwin/arm64:
       name:  vibe-darwin-aarch64-2.25.0.zip
