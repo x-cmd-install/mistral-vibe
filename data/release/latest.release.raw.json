@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 35733588,
       "digest": "sha256:4ddafad59f4e2b0b571a408a491e8792c5164cf3dd6703a5dcccffb509a557f5",
-      "download_count": 46,
+      "download_count": 47,
       "created_at": "2026-09-04T09:00:13Z",
       "updated_at": "2026-09-04T09:00:16Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.0/vibe-acp-windows-x86_64-2.25.0.zip"
