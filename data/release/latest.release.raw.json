@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 57538858,
       "digest": "sha256:b019c5273951e3e0adc529c8a267b352be6db862635790ded0993c5fe2797cf1",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:53Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-acp-darwin-aarch64-2.25.1.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 58579747,
       "digest": "sha256:7210a0c065308dae7f3fcc652002bc568931d322f6149c1640b316cbaafba51d",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:53Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-acp-darwin-aarch64-2.25.1.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 58781629,
       "digest": "sha256:6b31b6d5dffededf9482746a64ea75a231f6b72c177caa2e2450a74c350d092f",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:53Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-acp-darwin-x86_64-2.25.1.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 59821107,
       "digest": "sha256:ddc2f1295905a613b7a66f0997ed239ba2f196c3125bb334180ad5ecfcbfa745",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:53Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-acp-darwin-x86_64-2.25.1.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 66076422,
       "digest": "sha256:dbdad0fa7d62e84d4b3e67676ea2f73636cd670c03e464ef6d77fca21a374f5d",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:53Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-acp-linux-aarch64-2.25.1.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 67092599,
       "digest": "sha256:ea59a8b51f4ae2e495ad8d49ac658f3307ed5ad6cca5c548a4ae313afba657a3",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:53Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-acp-linux-aarch64-2.25.1.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 69693732,
       "digest": "sha256:87b4930f7c8eb1faf4d3481b6a5278362d1d0f977f71057f3e252eba2f77691c",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:53Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-acp-linux-x86_64-2.25.1.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 70705962,
       "digest": "sha256:3b6e12e47ea6aaa26cfc37ec59c5d57436982e33a2b82d90cb83a239f09f6def",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:54Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-acp-linux-x86_64-2.25.1.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 58954455,
       "digest": "sha256:7d09b586cf0462530b213c9808af1b5a3ef36a076697924d04ee32d2eb46d798",
-      "download_count": 14,
+      "download_count": 21,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:53Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-acp-windows-x86_64-2.25.1.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 59192595,
       "digest": "sha256:3bb6c63f463da544344ebf2925e27ee85de503c1ec6c84e8e0721018b8ad7a9b",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:54Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-darwin-aarch64-2.25.1.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 60439458,
       "digest": "sha256:66faf42efa4dd238818e5eb8acbf73d7de30a2479a48e16d1e8dbbfbaa8bfd91",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:54Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-darwin-x86_64-2.25.1.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 67683986,
       "digest": "sha256:ea378787401b0adf5cd98e8543c9328df7c358912e538da74c30255808787c4c",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:54Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-linux-aarch64-2.25.1.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 71295912,
       "digest": "sha256:0566c95fab1ecc0167123d168ec32bf7061b021fed813bd3217ee1d0cde7791c",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:54Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-linux-x86_64-2.25.1.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 59849444,
       "digest": "sha256:d9bbf81c5a90acd19ff38752baf36b921cb9fa6d4f56f80506f7c69f633931ef",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-09-09T13:43:49Z",
       "updated_at": "2026-09-09T13:43:53Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.1/vibe-windows-x86_64-2.25.1.zip"
