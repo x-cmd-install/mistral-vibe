@@ -2,95 +2,95 @@ about:
   description: "Minimal CLI coding agent by Mistral"
   license: Apache-2.0
   homepage: 
-  head: 2817f3d
+  head: 96836b5
   archived: false
-  latestVersion: "v2.25.1"
-  latestRelease: "v2.25.1"
+  latestVersion: "v2.25.2"
+  latestRelease: "v2.25.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:32:53Z
+  collectedAt: 2026-09-10T20:40:55Z
 timeline:
   created: 2025-12-08
-  lastCommit: 2026-09-09
-  lastVersion: 2026-09-09
-  lastRelease: 2026-09-09
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 4932
+  star: 4933
   watcher: 30
-  fork: 693
-  release: 85
+  fork: 699
+  release: 86
   contributor: 102
-  pullRequest: 422
-  issue: 456
+  pullRequest: 423
+  issue: 457
 language:
-  Python: 11687279
+  Python: 11718906
   Shell: 12287
   Nix: 4392
-totalBytes: 11703958
+totalBytes: 11735585
 recent:
   last30d:
     since: 2026-08-11
-    release: 7
-    mergedPR: 6
+    release: 8
+    mergedPR: 7
     openPR: 20
     closedIssue: 9
-    openIssue: 19
-    commit: 6
+    openIssue: 20
+    commit: 7
   last60d:
     since: 2026-07-12
-    release: 15
-    mergedPR: 15
+    release: 16
+    mergedPR: 16
     openPR: 43
     closedIssue: 25
-    openIssue: 40
-    commit: 15
+    openIssue: 41
+    commit: 16
   last90d:
     since: 2026-06-12
-    release: 27
-    mergedPR: 27
+    release: 28
+    mergedPR: 28
     openPR: 75
     closedIssue: 37
-    openIssue: 55
-    commit: 26
+    openIssue: 56
+    commit: 27
   last180d:
     since: 2026-03-14
-    release: 55
-    mergedPR: 57
+    release: 56
+    mergedPR: 58
     openPR: 116
     closedIssue: 113
-    openIssue: 101
-    commit: 55
+    openIssue: 102
+    commit: 56
   last360d:
     since: 2025-09-15
-    release: 85
-    mergedPR: 86
+    release: 86
+    mergedPR: 87
     openPR: 174
     closedIssue: 337
-    openIssue: 119
-    commit: 86
+    openIssue: 120
+    commit: 87
   last720d:
     since: 2024-09-20
-    release: 85
-    mergedPR: 86
+    release: 86
+    mergedPR: 87
     openPR: 174
     closedIssue: 337
-    openIssue: 119
-    commit: 86
+    openIssue: 120
+    commit: 87
 total:
-  release: 85
-  mergedPR: 86
+  release: 86
+  mergedPR: 87
   openPR: 174
   closedIssue: 337
-  openIssue: 119
-  commit: 86
+  openIssue: 120
+  commit: 87
 ---
 path: /home/runner/.x-repo/github.com/mistralai/mistral-vibe
-collectedAt: 2026-09-10T05:32:55Z
+collectedAt: 2026-09-10T20:40:58Z
 loc:
   Python:
-    code: 271245
-    comments: 6659
-    blanks: 51591
+    code: 271978
+    comments: 6671
+    blanks: 51702
     files: 1184
   Svg:
     code: 26050
@@ -129,13 +129,13 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 4884
-    blanks: 1796
+    comments: 4899
+    blanks: 1804
     files: 61
 total:
-  code: 298759
-  comments: 11840
-  blanks: 54756
+  code: 299492
+  comments: 11867
+  blanks: 54875
   files: 1416
 ---
 
