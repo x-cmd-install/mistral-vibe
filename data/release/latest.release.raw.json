@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 57570209,
       "digest": "sha256:1040497b7bbb384a56affeb66ac69dfbbaa40f15055e27a286ff44950867b73d",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:08Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-acp-darwin-aarch64-2.25.3.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 58605767,
       "digest": "sha256:f6c2cc5ed81f9a4d03f23d1d2b15f5d56af65fe3fe15e713ef6dbb62a3b207d7",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:08Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-acp-darwin-aarch64-2.25.3.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 58797455,
       "digest": "sha256:c5017331e53a12badac7e7f4274a4b33db292519a4f4055c929510f3f7ac73aa",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:09Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-acp-darwin-x86_64-2.25.3.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 59847744,
       "digest": "sha256:b0f02f052078c1faff1c89b2adcd62a587cd4e0252e66984855be38950b8a614",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:09Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-acp-darwin-x86_64-2.25.3.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 66108064,
       "digest": "sha256:de3fd80b3d775d6191fdbcb502fc642d6427703e72f2c2e562d2d42464e5a033",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:09Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-acp-linux-aarch64-2.25.3.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 67118831,
       "digest": "sha256:2d45ef6ebb19e483b8943bf1723b32f10c542a885c190a602d724327c054cca6",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:09Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-acp-linux-aarch64-2.25.3.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 69715963,
       "digest": "sha256:cd73377b1000a05f4310cc87df518eb7a8b52dfb3766845024a24f71c7c54b40",
-      "download_count": 3,
+      "download_count": 8,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:09Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-acp-linux-x86_64-2.25.3.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 70732605,
       "digest": "sha256:0cb2e147fc360c2ac075b238a2f2a3bd902ed8781f8f86dc17359007b84556e6",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:09Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-acp-linux-x86_64-2.25.3.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 58979625,
       "digest": "sha256:2494d1573c11d30a13f44a6ca21883cc53c2661560fda7a3610f75d5a8fa398f",
-      "download_count": 12,
+      "download_count": 18,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:08Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-acp-windows-x86_64-2.25.3.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 59223227,
       "digest": "sha256:de3234602a0ef572b0282c17d19c9b425c72927aed188370f0d9d0b13b475aed",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:08Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-darwin-aarch64-2.25.3.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 60470780,
       "digest": "sha256:398df5eccbdd28a75523b8a72410da0b121db79fc363fef384138826dcaaa55f",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:09Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-darwin-x86_64-2.25.3.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 67715767,
       "digest": "sha256:8abe3fc8c9dfabf6d8de76bbd95b879275ff27de382fc120c36c8b959a139963",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:09Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-linux-aarch64-2.25.3.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 71326727,
       "digest": "sha256:6484aa92bcef70c9c528bf59facff371a93f6ebc98a9bbfd2787c890185842f9",
-      "download_count": 2,
+      "download_count": 8,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:09Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-linux-x86_64-2.25.3.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 59877781,
       "digest": "sha256:f608f385302f5d38b916a850d538214c0849964b63518040a268875a32751f13",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T13:15:04Z",
       "updated_at": "2026-09-11T13:15:09Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.3/vibe-windows-x86_64-2.25.3.zip"
@@ -546,13 +546,13 @@
   "body": "### Added\n\n- New `/branch` command forks the current conversation into a new resumable session, leaving the current session unchanged. Resume the copy in another terminal with `vibe --resume <id>`.\n\n### Changed\n\n- Bump the local harness runtime to v0.4.5.\n- Make @ file mentions use Git-aware discovery and accept standalone pasted files and folders.\n\n### Fixed\n\n- Retained chats remain readable and restore their worktrees when work resumes.\n- New session logs are no longer readable by other users on POSIX systems.\n- AGENTS.md instructions now load into the system prompt under the experimental unified harness.\n",
   "reactions": {
     "url": "https://api.github.com/repos/mistralai/mistral-vibe/releases/387044202/reactions",
-    "total_count": 2,
+    "total_count": 3,
     "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 0,
+    "heart": 1,
     "rocket": 0,
     "eyes": 0
   }

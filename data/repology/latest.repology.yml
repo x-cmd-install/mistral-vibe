@@ -2,8 +2,8 @@
   srcname: mistral-vibe
   binname: mistral-vibe
   visiblename: mistral-vibe
-  version: 2.25.2
-  origversion: 2.25.2-1
+  version: 2.25.3
+  origversion: 2.25.3-1
   status: newest
   summary: Minimal CLI coding agent by Mistral
   maintainers:
