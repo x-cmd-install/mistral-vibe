@@ -37,7 +37,7 @@ Total: **300,820** lines of code across **1354** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,937 · **Forks**: 699 · **Open issues**: 459 · **Contributors**: 102
+- **Stars**: 4,936 · **Forks**: 699 · **Open issues**: 459 · **Contributors**: 102
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **300,820** lines of code across **1354** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 8 | 8 | 20 | 8 | 21 | 8 |
-| last60d | 2026-07-13 | 17 | 16 | 43 | 24 | 43 | 17 |
-| 90d | 2026-06-13 | 28 | 29 | 70 | 37 | 57 | 28 |
-| last180d | 2026-03-15 | 57 | 59 | 116 | 113 | 104 | 57 |
-| 360d | 2025-09-16 | 87 | 88 | 174 | 337 | 122 | 88 |
-| last720d | 2024-09-21 | 87 | 88 | 174 | 337 | 122 | 88 |
+| 30d | 2026-08-13 | 8 | 8 | 20 | 8 | 20 | 8 |
+| last60d | 2026-07-14 | 17 | 16 | 43 | 24 | 43 | 17 |
+| 90d | 2026-06-14 | 28 | 29 | 70 | 37 | 56 | 28 |
+| last180d | 2026-03-16 | 57 | 58 | 115 | 112 | 104 | 57 |
+| 360d | 2025-09-17 | 87 | 88 | 174 | 337 | 122 | 88 |
+| last720d | 2024-09-22 | 87 | 88 | 174 | 337 | 122 | 88 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for mistral-vibe lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:23:57Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:28:12Z._
