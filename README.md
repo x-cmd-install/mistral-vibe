@@ -32,27 +32,27 @@ Total: **302,356** lines of code across **1358** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.25.4` (2026-09-12)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-13
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 4,941 · **Forks**: 700 · **Open issues**: 460 · **Contributors**: 103
+- **Stars**: 4,947 · **Forks**: 700 · **Open issues**: 460 · **Contributors**: 103
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 90 · **Open PRs**: 174 · **Closed issues**: 337 · **Open issues**: 123 · **Commits**: 89
+- **Releases**: 88 · **Merged PRs**: 91 · **Open PRs**: 174 · **Closed issues**: 337 · **Open issues**: 123 · **Commits**: 90
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 9 | 10 | 20 | 8 | 20 | 9 |
-| last60d | 2026-07-15 | 18 | 18 | 41 | 23 | 43 | 18 |
-| 90d | 2026-06-15 | 29 | 30 | 65 | 37 | 57 | 29 |
-| last180d | 2026-03-17 | 57 | 60 | 109 | 111 | 103 | 58 |
-| 360d | 2025-09-18 | 88 | 90 | 174 | 337 | 123 | 89 |
-| last720d | 2024-09-23 | 88 | 90 | 174 | 337 | 123 | 89 |
+| 30d | 2026-08-15 | 9 | 11 | 20 | 8 | 20 | 8 |
+| last60d | 2026-07-16 | 17 | 19 | 41 | 22 | 43 | 16 |
+| 90d | 2026-06-16 | 28 | 30 | 65 | 36 | 57 | 26 |
+| last180d | 2026-03-18 | 57 | 61 | 106 | 110 | 102 | 56 |
+| 360d | 2025-09-19 | 88 | 91 | 174 | 337 | 123 | 90 |
+| last720d | 2024-09-24 | 88 | 91 | 174 | 337 | 123 | 90 |
 
 ## Release assets
 
@@ -73,16 +73,6 @@ Total: **302,356** lines of code across **1358** files in the top 5 languages.
 | [vibe-linux-x86_64-2.25.4.zip](https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-linux-x86_64-2.25.4.zip) | 68.0 MiB | `native/linux/x64` |
 | [vibe-windows-x86_64-2.25.4.zip](https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-windows-x86_64-2.25.4.zip) | 57.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/mistral-vibe). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.25.0` | ⚠️ outdated |
-| Nix unstable | `2.25.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.24.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for mistral-vibe lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mistral-vibe` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -92,4 +82,4 @@ Install metadata for mistral-vibe lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:40:01Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:06:47Z._
