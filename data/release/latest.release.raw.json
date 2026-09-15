@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 57581289,
       "digest": "sha256:01d741f403c131164f8d988ccd4e4bd88b6d79e70c035c059d76c43db059e766",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-09-12T18:47:44Z",
       "updated_at": "2026-09-12T18:47:50Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-acp-darwin-aarch64-2.25.4.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 58622170,
       "digest": "sha256:af3a1bdbf34bb3a9789ff0d239a8419a3aaacc522daa9db7718d99e596cfbef7",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-09-12T18:47:44Z",
       "updated_at": "2026-09-12T18:47:50Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-acp-darwin-aarch64-2.25.4.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 59864059,
       "digest": "sha256:8bd12e34ec403f0decabb1a468763db5a15467c742f7d778cd2682a93548d30a",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-12T18:47:44Z",
       "updated_at": "2026-09-12T18:47:50Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-acp-darwin-x86_64-2.25.4.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 67135379,
       "digest": "sha256:be1f71701b874ed670491b7bae9a4c531c515c97449f65c83ab3766fc8e517b4",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-12T18:47:44Z",
       "updated_at": "2026-09-12T18:47:51Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-acp-linux-aarch64-2.25.4.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 69732402,
       "digest": "sha256:9d7e5a0194c1a2030af8eb4941d1ae94f00ae31d241b159f344b5b385b5640fd",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-09-12T18:47:44Z",
       "updated_at": "2026-09-12T18:47:51Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-acp-linux-x86_64-2.25.4.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 70747967,
       "digest": "sha256:00153198d6e968b22263a27fa179402ff6248f5a25b5225300ee62fa831e30f6",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-09-12T18:47:44Z",
       "updated_at": "2026-09-12T18:47:51Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-acp-linux-x86_64-2.25.4.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 58994964,
       "digest": "sha256:2783edc3affc1cf0ea49667b69a4c0ea9b97304be0470bd84f1a3d1efed02bda",
-      "download_count": 35,
+      "download_count": 46,
       "created_at": "2026-09-12T18:47:44Z",
       "updated_at": "2026-09-12T18:47:50Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-acp-windows-x86_64-2.25.4.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 59238041,
       "digest": "sha256:4a4e11ebecd50ca9af00fa3da08df742098a34db5de158de9f825dbf28f9261f",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-09-12T18:47:44Z",
       "updated_at": "2026-09-12T18:47:50Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-darwin-aarch64-2.25.4.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 67730064,
       "digest": "sha256:bf2a42408ff688c5954f902997778b547d975174a1f33896ac81ba67adf2e18a",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-09-12T18:47:44Z",
       "updated_at": "2026-09-12T18:47:50Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-linux-aarch64-2.25.4.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 71343335,
       "digest": "sha256:e5ab34e542f033527a218b7462114b2dae100ea5ee0a878f2e015c45e1f2f38b",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-09-12T18:47:44Z",
       "updated_at": "2026-09-12T18:47:50Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-linux-x86_64-2.25.4.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 59894420,
       "digest": "sha256:9d3133a2c4171b1c6bd2148af33440a66c91432c3b679310265feb873586683d",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-09-12T18:47:44Z",
       "updated_at": "2026-09-12T18:47:51Z",
       "browser_download_url": "https://github.com/mistralai/mistral-vibe/releases/download/v2.25.4/vibe-windows-x86_64-2.25.4.zip"
@@ -546,14 +546,14 @@
   "body": "### Fixed\n\n- Connector discovery excludes raw HTTP connectors that do not support MCP tools.\n- A single invalid connector no longer prevents the rest of your connectors from loading; an individual tool with an oversized schema is dropped on its own, and accounts over the connector cap keep a bounded catalog instead of loading none.\n- Automatic session titles use the active model on custom Mistral endpoints.\n- Smart-approve now appears in the Vibe Desktop mode picker when enabled via its rollout, and a background refresh no longer drops it.\n- ACP clients (Zed/JetBrains) always list the active mode, so a session can never get stuck on a mode missing from its own list.\n- Smart-approve now escalates to a confirmation prompt when a risky action is requested again, instead of only blocking it, and shows the reason it is asking.\n- Auto-approved calls no longer read as warnings: the reason smart-approve let a call run is shown as a note rather than a warning.\n- `@` file mentions now resolve against every workspace root, including `--add-dir` ones.\n- A `@` mention outside the workspace no longer rejects the whole message; it stays plain text and the read tool can still ask for it.\n- `--add-dir` no longer drops the working directory from the file tools' workspace roots.\n- Shell permission checks now require approval for risky syntax and command options that could bypass workspace and denylist controls (CVE-2026-87984, CVE-2026-87985, CVE-2026-87986, CVE-2026-87987, and residual CVE-2026-87988 variants).\n",
   "reactions": {
     "url": "https://api.github.com/repos/mistralai/mistral-vibe/releases/387667232/reactions",
-    "total_count": 2,
+    "total_count": 4,
     "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
-    "rocket": 1,
+    "rocket": 3,
     "eyes": 0
   }
 }
