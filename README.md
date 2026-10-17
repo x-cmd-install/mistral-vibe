@@ -2,8 +2,6 @@
 
 [中文版本](./README.cn.md)
 
-Minimal CLI coding agent by Mistral
-
 [![x-cmd/install — mistral-vibe Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mistral-vibe.svg)](https://x-cmd.com/install/mistral-vibe)
 
 ## Install
@@ -27,51 +25,26 @@ Total: **937,837** lines of code across **5315** files in the top 5 languages.
 ## Source
 
 - **Upstream**: <https://github.com/mistralai/mistral-vibe>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v2.26.1` (2026-10-09)
-- **Last commit**: 2026-10-09
-- **Assets in release**: 14
+- **License**: NOASSERTION
 
 ## Popularity
 
-- **Stars**: 5,133 · **Forks**: 740 · **Open issues**: 574 · **Contributors**: 171
+- **Stars**: 0 · **Forks**: 0 · **Open issues**: 0 · **Contributors**: 0
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 97 · **Open PRs**: 199 · **Closed issues**: 363 · **Open issues**: 211 · **Commits**: 96
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 0
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 5 | 6 | 26 | 18 | 90 | 6 |
-| last60d | 2026-08-17 | 14 | 17 | 45 | 33 | 107 | 15 |
-| 90d | 2026-07-18 | 21 | 24 | 64 | 47 | 130 | 23 |
-| last180d | 2026-04-19 | 52 | 57 | 121 | 105 | 178 | 55 |
-| 360d | 2025-10-21 | 93 | 97 | 199 | 363 | 211 | 96 |
-| last720d | 2024-10-26 | 93 | 97 | 199 | 363 | 211 | 96 |
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [vibe-acp-darwin-aarch64-2.26.1.tar.gz](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-acp-darwin-aarch64-2.26.1.tar.gz) | 57.5 MiB | `native/darwin/arm64` |
-| [vibe-acp-darwin-aarch64-2.26.1.zip](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-acp-darwin-aarch64-2.26.1.zip) | 58.6 MiB | `native/darwin/arm64` |
-| [vibe-acp-darwin-x86_64-2.26.1.tar.gz](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-acp-darwin-x86_64-2.26.1.tar.gz) | 58.7 MiB | `native/darwin/x64` |
-| [vibe-acp-darwin-x86_64-2.26.1.zip](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-acp-darwin-x86_64-2.26.1.zip) | 59.8 MiB | `native/darwin/x64` |
-| [vibe-acp-linux-aarch64-2.26.1.tar.gz](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-acp-linux-aarch64-2.26.1.tar.gz) | 69.1 MiB | `native/linux/arm64` |
-| [vibe-acp-linux-aarch64-2.26.1.zip](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-acp-linux-aarch64-2.26.1.zip) | 70.1 MiB | `native/linux/arm64` |
-| [vibe-acp-linux-x86_64-2.26.1.tar.gz](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-acp-linux-x86_64-2.26.1.tar.gz) | 71.2 MiB | `native/linux/x64` |
-| [vibe-acp-linux-x86_64-2.26.1.zip](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-acp-linux-x86_64-2.26.1.zip) | 72.2 MiB | `native/linux/x64` |
-| [vibe-acp-windows-x86_64-2.26.1.zip](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-acp-windows-x86_64-2.26.1.zip) | 58.1 MiB | `native/win/x64` |
-| [vibe-darwin-aarch64-2.26.1.zip](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-darwin-aarch64-2.26.1.zip) | 59.1 MiB | `native/darwin/arm64` |
-| [vibe-darwin-x86_64-2.26.1.zip](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-darwin-x86_64-2.26.1.zip) | 60.3 MiB | `native/darwin/x64` |
-| [vibe-linux-aarch64-2.26.1.zip](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-linux-aarch64-2.26.1.zip) | 70.7 MiB | `native/linux/arm64` |
-| [vibe-linux-x86_64-2.26.1.zip](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-linux-x86_64-2.26.1.zip) | 72.8 MiB | `native/linux/x64` |
-| [vibe-windows-x86_64-2.26.1.zip](https://github.com/mistralai/mistral-vibe/releases/download/v2.26.1/vibe-windows-x86_64-2.26.1.zip) | 58.6 MiB | `native/win/x64` |
+| 30d | 2026-09-17 | 0 | 6 | 24 | 18 | 87 | 0 |
+| last60d | 2026-08-18 | 0 | 16 | 46 | 33 | 108 | 0 |
+| 90d | 2026-07-19 | 0 | 24 | 63 | 47 | 131 | 0 |
+| last180d | 2026-04-20 | 0 | 57 | 122 | 105 | 178 | 0 |
+| 360d | 2025-10-22 | 0 | 97 | 200 | 363 | 212 | 0 |
+| last720d | 2024-10-27 | 0 | 97 | 200 | 363 | 212 | 0 |
 
 ## Improve this data
 
@@ -82,4 +55,4 @@ Install metadata for mistral-vibe lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:14:08Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:04:04Z._
