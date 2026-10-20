@@ -12,15 +12,15 @@ x install mistral-vibe
 
 ## Code insight
 
-Total: **937,837** lines of code across **5315** files in the top 5 languages.
+Total: **900,657** lines of code across **5360** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 397,175 | 11,663 | 71,416 | 2049 |
-| Svg | 391,752 | 160 | 15,826 | 1884 |
-| Rust | 132,030 | 2,692 | 12,085 | 794 |
-| Json | 15,495 | 0 | 0 | 581 |
-| Toml | 447 | 29 | 50 | 7 |
+| Svg | 432,030 | 7 | 17,307 | 2043 |
+| Python | 301,212 | 9,329 | 51,882 | 1715 |
+| Rust | 148,768 | 3,045 | 13,863 | 908 |
+| Json | 17,309 | 0 | 0 | 686 |
+| Toml | 459 | 31 | 52 | 8 |
 
 ## Source
 
@@ -39,12 +39,12 @@ Total: **937,837** lines of code across **5315** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 5 | 24 | 19 | 97 | 0 |
-| last60d | 2026-08-20 | 0 | 15 | 39 | 35 | 118 | 0 |
-| 90d | 2026-07-21 | 0 | 23 | 62 | 48 | 141 | 0 |
-| last180d | 2026-04-22 | 0 | 55 | 121 | 104 | 189 | 0 |
-| 360d | 2025-10-24 | 0 | 97 | 200 | 365 | 223 | 0 |
-| last720d | 2024-10-29 | 0 | 97 | 200 | 365 | 223 | 0 |
+| 30d | 2026-09-20 | 0 | 6 | 25 | 21 | 99 | 0 |
+| last60d | 2026-08-21 | 0 | 16 | 39 | 38 | 118 | 0 |
+| 90d | 2026-07-22 | 0 | 24 | 61 | 52 | 141 | 0 |
+| last180d | 2026-04-23 | 0 | 56 | 122 | 107 | 189 | 0 |
+| 360d | 2025-10-25 | 0 | 98 | 201 | 369 | 223 | 0 |
+| last720d | 2024-10-30 | 0 | 98 | 201 | 369 | 223 | 0 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for mistral-vibe lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:19:14Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:32:47Z._
