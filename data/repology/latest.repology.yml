@@ -25,7 +25,7 @@
 - repo: homebrew
   srcname: mistral-vibe
   visiblename: mistral-vibe
-  version: 3.0.1
+  version: 3.0.2
   origversion: null
   status: newest
   summary: Minimal CLI coding agent
@@ -52,7 +52,7 @@
 - repo: nix_unstable
   srcname: mistral-vibe
   visiblename: mistral-vibe
-  version: 2.25.0
+  version: 3.0.1
   origversion: null
   status: outdated
   summary: Minimal CLI coding agent by Mistral
