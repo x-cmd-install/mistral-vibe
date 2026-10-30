@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:29:00Z
+  collectedAt: 2026-10-30T06:31:41Z
 timeline:
   created: 
   lastCommit: 
@@ -24,52 +24,52 @@ popularity:
   issue: 0
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 9
     openPR: 20
-    closedIssue: 38
-    openIssue: 92
+    closedIssue: 46
+    openIssue: 91
     commit: 0
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 19
-    openPR: 36
-    closedIssue: 58
-    openIssue: 126
+    openPR: 37
+    closedIssue: 67
+    openIssue: 125
     commit: 0
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 26
-    openPR: 53
-    closedIssue: 72
-    openIssue: 145
+    openPR: 54
+    closedIssue: 81
+    openIssue: 144
     commit: 0
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
     mergedPR: 57
-    openPR: 119
-    closedIssue: 127
-    openIssue: 193
+    openPR: 120
+    closedIssue: 136
+    openIssue: 192
     commit: 0
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
     mergedPR: 103
-    openPR: 204
-    closedIssue: 399
-    openIssue: 232
+    openPR: 205
+    closedIssue: 409
+    openIssue: 231
     commit: 0
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
     mergedPR: 103
-    openPR: 204
-    closedIssue: 399
-    openIssue: 232
+    openPR: 205
+    closedIssue: 409
+    openIssue: 231
     commit: 0
 total:
   release: 0
@@ -83,7 +83,7 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `mistralai` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
 path: /home/runner/.x-repo/github.com/mistralai/mistral-vibe
-collectedAt: 2026-10-29T06:29:06Z
+collectedAt: 2026-10-30T06:31:52Z
 loc:
   Svg:
     code: 479477
