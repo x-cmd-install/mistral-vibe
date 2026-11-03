@@ -39,21 +39,21 @@ Total: **1,028,143** lines of code across **6085** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 10 | 18 | 45 | 100 | 0 |
-| last60d | 2026-09-03 | 0 | 20 | 35 | 67 | 137 | 0 |
-| 90d | 2026-08-04 | 0 | 26 | 51 | 83 | 153 | 0 |
-| last180d | 2026-05-06 | 0 | 57 | 115 | 136 | 201 | 0 |
-| 360d | 2025-11-07 | 0 | 104 | 203 | 411 | 245 | 0 |
-| last720d | 2024-11-12 | 0 | 104 | 203 | 411 | 245 | 0 |
+| 30d | 2026-10-04 | 0 | 10 | 17 | 54 | 96 | 0 |
+| last60d | 2026-09-04 | 0 | 19 | 35 | 77 | 135 | 0 |
+| 90d | 2026-08-05 | 0 | 25 | 51 | 93 | 150 | 0 |
+| last180d | 2026-05-07 | 0 | 56 | 115 | 148 | 198 | 0 |
+| 360d | 2025-11-08 | 0 | 104 | 203 | 424 | 241 | 0 |
+| last720d | 2024-11-13 | 0 | 104 | 203 | 424 | 241 | 0 |
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/mistral-vibe). **1** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/mistral-vibe). **3** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `3.0.4` | ✅ latest |
-| Nix unstable | `3.0.2` | ⚠️ outdated |
+| Nix unstable | `3.0.4` | ✅ latest |
 | openSUSE Tumbleweed | `2.25.8` | ⚠️ outdated |
 
 ## Improve this data
@@ -65,4 +65,4 @@ Install metadata for mistral-vibe lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:50:46Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:43:24Z._
