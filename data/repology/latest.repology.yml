@@ -1,9 +1,23 @@
+- repo: homebrew
+  srcname: mistral-vibe
+  visiblename: mistral-vibe
+  version: 3.1.0
+  origversion: null
+  status: outdated
+  summary: Minimal CLI coding agent
+- repo: homebrew
+  srcname: mistral-vibe
+  visiblename: mistral-vibe
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Minimal CLI coding agent
 - repo: aur
   srcname: mistral-vibe
   binname: mistral-vibe
   visiblename: mistral-vibe
-  version: 3.1.0
-  origversion: 3.1.0-1
+  version: 3.1.1
+  origversion: 3.1.1-1
   status: newest
   summary: Minimal CLI coding agent by Mistral
   maintainers:
@@ -14,28 +28,14 @@
   srcname: mistral-vibe-bin
   binname: mistral-vibe-bin
   visiblename: mistral-vibe-bin
-  version: 3.1.0
-  origversion: 3.1.0-1
+  version: 3.1.1
+  origversion: 3.1.1-1
   status: newest
   summary: Minimal CLI coding agent by Mistral (binary release)
   maintainers:
     - vial@aur
   licenses:
     - Apache-2.0
-- repo: homebrew
-  srcname: mistral-vibe
-  visiblename: mistral-vibe
-  version: 3.1.0
-  origversion: null
-  status: newest
-  summary: Minimal CLI coding agent
-- repo: homebrew
-  srcname: mistral-vibe
-  visiblename: mistral-vibe
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Minimal CLI coding agent
 - repo: nix_stable_26_05
   srcname: mistral-vibe
   visiblename: mistral-vibe
@@ -54,7 +54,7 @@
   visiblename: mistral-vibe
   version: 3.1.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Minimal CLI coding agent by Mistral
   maintainers:
     - gaetan@glepage.com
