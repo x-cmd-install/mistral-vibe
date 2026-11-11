@@ -12,15 +12,15 @@ x install mistral-vibe
 
 ## Code insight
 
-Total: **1,092,320** lines of code across **6364** files in the top 5 languages.
+Total: **733,555** lines of code across **4771** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Svg | 506,420 | 0 | 19,021 | 2372 |
-| Python | 377,198 | 13,692 | 63,366 | 2027 |
-| Rust | 185,807 | 3,839 | 17,808 | 1115 |
-| Json | 21,295 | 0 | 0 | 842 |
-| Sh | 534 | 95 | 115 | 8 |
+| Python | 387,590 | 13,875 | 65,258 | 2101 |
+| Rust | 193,463 | 3,864 | 18,555 | 1172 |
+| Svg | 127,699 | 0 | 4,835 | 599 |
+| Json | 23,192 | 0 | 0 | 891 |
+| Sh | 544 | 105 | 115 | 8 |
 
 ## Source
 
@@ -39,12 +39,12 @@ Total: **1,092,320** lines of code across **6364** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 9 | 12 | 78 | 115 | 0 |
-| last60d | 2026-09-11 | 0 | 18 | 30 | 116 | 165 | 0 |
-| 90d | 2026-08-12 | 0 | 26 | 49 | 131 | 180 | 0 |
-| last180d | 2026-05-14 | 0 | 57 | 112 | 188 | 230 | 0 |
-| 360d | 2025-11-15 | 0 | 106 | 202 | 466 | 275 | 0 |
-| last720d | 2024-11-20 | 0 | 106 | 202 | 466 | 275 | 0 |
+| 30d | 2026-10-12 | 0 | 10 | 13 | 80 | 110 | 0 |
+| last60d | 2026-09-12 | 0 | 17 | 31 | 119 | 164 | 0 |
+| 90d | 2026-08-13 | 0 | 27 | 50 | 135 | 178 | 0 |
+| last180d | 2026-05-15 | 0 | 58 | 112 | 191 | 229 | 0 |
+| 360d | 2025-11-16 | 0 | 107 | 203 | 470 | 274 | 0 |
+| last720d | 2024-11-21 | 0 | 107 | 203 | 470 | 274 | 0 |
 
 ## Distribution status
 
@@ -65,4 +65,4 @@ Install metadata for mistral-vibe lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:11:09Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:05:59Z._
