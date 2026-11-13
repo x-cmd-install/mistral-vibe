@@ -4,7 +4,7 @@
   visiblename: mistral-vibe
   version: 3.1.1
   origversion: 3.1.1-1
-  status: newest
+  status: outdated
   summary: Minimal CLI coding agent by Mistral
   maintainers:
     - vial@aur
@@ -16,7 +16,7 @@
   visiblename: mistral-vibe-bin
   version: 3.1.1
   origversion: 3.1.1-1
-  status: newest
+  status: outdated
   summary: Minimal CLI coding agent by Mistral (binary release)
   maintainers:
     - vial@aur
@@ -25,9 +25,9 @@
 - repo: homebrew
   srcname: mistral-vibe
   visiblename: mistral-vibe
-  version: 3.1.0
+  version: 3.1.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Minimal CLI coding agent
 - repo: homebrew
   srcname: mistral-vibe
