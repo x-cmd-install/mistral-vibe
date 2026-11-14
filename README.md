@@ -39,16 +39,16 @@ Total: **733,555** lines of code across **4771** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 10 | 5 | 78 | 114 | 0 |
-| last60d | 2026-09-14 | 0 | 16 | 28 | 123 | 174 | 0 |
-| 90d | 2026-08-15 | 0 | 27 | 47 | 141 | 188 | 0 |
-| last180d | 2026-05-17 | 0 | 58 | 109 | 195 | 240 | 0 |
-| 360d | 2025-11-18 | 0 | 107 | 199 | 476 | 285 | 0 |
-| last720d | 2024-11-23 | 0 | 107 | 199 | 476 | 285 | 0 |
+| 30d | 2026-10-15 | 0 | 10 | 5 | 78 | 116 | 0 |
+| last60d | 2026-09-15 | 0 | 16 | 28 | 126 | 178 | 0 |
+| 90d | 2026-08-16 | 0 | 27 | 47 | 143 | 191 | 0 |
+| last180d | 2026-05-18 | 0 | 58 | 109 | 197 | 243 | 0 |
+| 360d | 2025-11-19 | 0 | 107 | 199 | 479 | 289 | 0 |
+| last720d | 2024-11-24 | 0 | 107 | 199 | 479 | 289 | 0 |
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/mistral-vibe). **1** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/mistral-vibe). **3** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -65,4 +65,4 @@ Install metadata for mistral-vibe lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:37:31Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:42:31Z._
