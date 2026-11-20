@@ -39,12 +39,12 @@ Total: **809,147** lines of code across **5246** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 9 | 3 | 99 | 148 | 0 |
-| last60d | 2026-09-20 | 0 | 16 | 26 | 155 | 215 | 0 |
-| 90d | 2026-08-21 | 0 | 26 | 39 | 175 | 231 | 0 |
-| last180d | 2026-05-23 | 0 | 57 | 106 | 224 | 283 | 0 |
-| 360d | 2025-11-24 | 0 | 108 | 197 | 512 | 330 | 0 |
-| last720d | 2024-11-29 | 0 | 108 | 197 | 512 | 330 | 0 |
+| 30d | 2026-10-21 | 0 | 9 | 3 | 102 | 148 | 0 |
+| last60d | 2026-09-21 | 0 | 16 | 26 | 159 | 212 | 0 |
+| 90d | 2026-08-22 | 0 | 26 | 34 | 179 | 231 | 0 |
+| last180d | 2026-05-24 | 0 | 57 | 105 | 229 | 282 | 0 |
+| 360d | 2025-11-25 | 0 | 108 | 197 | 517 | 331 | 0 |
+| last720d | 2024-11-30 | 0 | 108 | 197 | 517 | 331 | 0 |
 
 ## Distribution status
 
@@ -65,4 +65,4 @@ Install metadata for mistral-vibe lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:56:52Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:27:08Z._
